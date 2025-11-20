@@ -13,9 +13,11 @@ $username = 'user';
 $password = 'password';
 
 # Tampilan Aplikasi
-![Home]([nama-gambar.jpg](https://github.com/snahvalabs/Simple-Questionaire-Distribution/blob/main/Image-Home.png))
+<img width="374" height="493" alt="Image-Rekapitulasi" src="https://github.com/user-attachments/assets/b9d035eb-6a28-475c-acd0-26e07a4985e6" />
+<img width="868" height="602" alt="Image-Home" src="https://github.com/user-attachments/assets/12e273cd-5345-4174-a0f3-89d901109fc5" />
 
-https://github.com/snahvalabs/Simple-Questionaire-Distribution/blob/main/Image-Home.png
+
+!https://github.com/snahvalabs/Simple-Questionaire-Distribution/blob/main/Image-Home.png
 
 https://github.com/snahvalabs/Simple-Questionaire-Distribution/blob/main/Image-Rekapitulasi.png
 
