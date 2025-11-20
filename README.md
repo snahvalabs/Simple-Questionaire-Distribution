@@ -13,6 +13,8 @@ $username = 'user';
 $password = 'password';
 
 # Tampilan Aplikasi
+![Home]([nama-gambar.jpg](https://github.com/snahvalabs/Simple-Questionaire-Distribution/blob/main/Image-Home.png))
+
 https://github.com/snahvalabs/Simple-Questionaire-Distribution/blob/main/Image-Home.png
 
 https://github.com/snahvalabs/Simple-Questionaire-Distribution/blob/main/Image-Rekapitulasi.png
