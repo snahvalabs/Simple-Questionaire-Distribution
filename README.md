@@ -13,12 +13,7 @@ $username = 'user';
 $password = 'password';
 
 # Tampilan Aplikasi
-<img width="374" height="493" alt="Image-Rekapitulasi" src="https://github.com/user-attachments/assets/b9d035eb-6a28-475c-acd0-26e07a4985e6" />
-<img width="868" height="602" alt="Image-Home" src="https://github.com/user-attachments/assets/12e273cd-5345-4174-a0f3-89d901109fc5" />
 
+<img width="868" height="602" alt="Image-Home" src="https://github.com/user-attachments/assets/c88460f9-1a0e-44fb-a8e7-a892aff63c02" />
 
-!https://github.com/snahvalabs/Simple-Questionaire-Distribution/blob/main/Image-Home.png
-
-https://github.com/snahvalabs/Simple-Questionaire-Distribution/blob/main/Image-Rekapitulasi.png
-
-https://github.com/ArmaanSeth/ChatPDF/assets/99117431/2500f636-c66d-46ad-bb68-1d55f04ce753
+<img width="977" height="554" alt="Image-Rekapitulasi" src="https://github.com/user-attachments/assets/50e309c6-3e1b-4bdd-bf7a-c1f7780526d7" />
