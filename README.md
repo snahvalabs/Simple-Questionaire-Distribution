@@ -11,3 +11,8 @@ $host = 'localhost';
 $dbname = 'metode_q_db';
 $username = 'user';
 $password = 'password';
+
+# Tampilan Aplikasi
+https://github.com/snahvalabs/Simple-Questionaire-Distribution/blob/main/Image-Home.png
+
+https://github.com/snahvalabs/Simple-Questionaire-Distribution/blob/main/Image-Rekapitulasi.png
